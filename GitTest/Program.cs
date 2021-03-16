@@ -6,7 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Anoter HotFix");
+            Console.WriteLine("Another HotFix");
         }
     }
 }
