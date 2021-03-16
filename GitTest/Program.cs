@@ -6,7 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TESTING Feature B");
+            Console.WriteLine("TESTING Feature A");
         }
     }
 }
